@@ -15,7 +15,7 @@ This lab exercise focuses on:
 Before starting, ensure you have:
 
 - Basic knowledge of **JavaScript**.
-- Familiarity with **terminal/command line** operations.
+- Familiarity with **terminal/command line** operations.  
 
 ---
 
