@@ -8,4 +8,4 @@ const config = {
 
 module.exports = config;
 
-console.log(config); // Optional: Logs the variables for testing
+console.log(config); // Optional: Logs the variables for testing  
